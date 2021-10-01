@@ -8,7 +8,7 @@
 I'm Jean Pierre, a 19 year old Software Engineer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
 More about me:
-- :rocket: I’m currently working on [@Palacio dos Leilões](https://github.com/palaciodosleiloes)
+- :rocket: I’m currently working on [@Palácio dos Leilões](https://github.com/palaciodosleiloes)
 - :gun: Amateur player in CS: GO championships
 - 💬  Ask me about anything [here](https://github.com/santos-jp7/santos-jp7/issues)
 <br/>
