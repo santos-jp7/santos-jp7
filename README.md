@@ -8,7 +8,7 @@
 I'm Jean Pierre, a 22 year old Software Engineer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
 More about me:
-- :books: systems analysis and development student at [@Unicesumar](https://github.com/unicesumaredu)
+- :books: Systems analysis and development student at [@Unicesumar](https://github.com/unicesumaredu)
 - :rocket: I’m currently working on [@Palácio dos Leilões](https://github.com/palaciodosleiloes)
 - 💬  Ask me about anything [here](https://github.com/santos-jp7/santos-jp7/issues)
 <br/>
