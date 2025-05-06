@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santos-jp7/)](https://www.linkedin.com/in/santos-jp7/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/santos_jp7/)](https://www.instagram.com/santos_jp7/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjepih@gmail.com)](mailto:hjepih@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jean.pierre@codlinx.com.br)](mailto:jean.pierre@codlinx.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/santos_jp7)](https://www.twitter.com/santos_jp7)
 
 I'm Jean Pierre, Software Engineer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
